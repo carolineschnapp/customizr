@@ -1,0 +1,17 @@
+Customizr is a Shopify library that fulfills this most important mission:
+
+Allow you to drop any additional form fields in your add to cart forms and witness those extra product attributes magically carried through checkout as part of the order.
+
+Customizr uses the old tried and true method of saving product attributes in a cookie until checkout. At checkout, the cookie is read and its data is submitted as cart attributes to the back-end via Shopify's Ajax API.
+
+h2. Dependencies
+
+jQuery > 1.3
+
+h2. Installation
+
+"The designer guide to product customization in Shopify":http://wiki.shopify.com/The_designer_guide_to_product_customization_in_Shopify
+
+"The shop-owner guide to product customization in Shopify":http://wiki.shopify.com/The_shop-owner_guide_to_product_customization_in_Shopify
+
+Read one or the other or both.

@@ -14,4 +14,4 @@ h2. Installation
 
 "The shop-owner guide to product customization in Shopify":http://wiki.shopify.com/The_shop-owner_guide_to_product_customization_in_Shopify
 
-Read one or the other or both.
+Read one guide or the other or both.
